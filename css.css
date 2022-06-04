@@ -21,3 +21,9 @@
     list-style-type: none;
     gap: 20px;
 }
+
+
+
+.top-info {
+    display:flex;
+}
