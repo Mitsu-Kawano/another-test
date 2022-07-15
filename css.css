@@ -26,4 +26,59 @@
 
 .top-info {
     display:flex;
+    justify-content: space-around;
+    margin: 0px 111px;
+    align-items: center;
+}
+
+
+.top-image {
+    height:200px;
+    width:400px;
+
+   
+}
+.random-info {
+    display:flex;
+    justify-content:center
+}
+
+.image-info {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap: 30px;
+
+}
+
+.image-text {
+
+    width: 200px;
+    text-align:center;
+
+    
+}
+
+
+.mid-image {
+    height:200px;
+    width:200px;
+}
+
+
+.quote {
+    background-color: grey;
+    height: 200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.quote-text {
+    
+    
+    font-size: 30px;
+    
+
 }
